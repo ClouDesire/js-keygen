@@ -1,0 +1,11 @@
+{
+  "name": "js-keypair",
+  "description": "Generate a key pair using the webcrypto API",
+  "main": "bundle.js",
+  "authors": [
+    "patrick@roumanoff.com"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/ClouDesire/js-keygen",
+  "private": true
+}
